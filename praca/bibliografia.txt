@@ -1,0 +1,171 @@
+Bill Blunden.
+The Rootkit ARSENAL Escape and Evasion in the Dark Corners of the System Second Edition.
+Jones & Bartlett LEARNING 2013. ISBN: 978-1-4496-2636-5.
+
+Ric Vieler. 
+Professional Rootkits. 
+Wiley Publishing 2007. ISBN:978-0-47-010154-4.
+
+Greg Hoglund, Jamie Butler. 
+Rootkity. Sabotowanie jądra systemu Windows. 
+Helion SA 2006. ISBN:83-246-0257-7.
+
+Filip Grzonkowski. 
+Rootkity. Niewidzialny sabotaż elektroniczny. 
+Wydawnictwo CSH. ISBN: 978-83-923745-7-2.
+
+Michael A. Davis, Sean M. Bodmer, Aaron LeMasters.
+Hacking Exposed Malware & Rootkits Secrets & Solutions. 
+The McGraw-Hill Companies 2010. ISBN: 978-0-07-159119-5.
+
+Dawid Farbaniec. 
+Techniki Twórców Złośliwego Oprogramowania Elementarz Programisty. 
+Helion SA 2014. ISBN:978-83-246-8862-3.
+
+Dawid Farbaniec. 
+Cyberwojna Metody działania hakerów. 
+Helion SA 2018. ISBN: 978-83-283-4332-0.
+
+Chris Anley, John Heasman, Felix “FX” Linder, Gerardo Richarte. 
+The Shellcoder’s Handbook Discovering and Exploiting Security Holes Second Edition. 
+Helion 2013. ISBN:978-83-246-6653-9.
+
+Joxean Koret, Elias BachaaLany. 
+The Antivirus Hacker’s Handbook. 
+John Wiley & Sons 2015. ISBN: 978-1-119-02875-8.
+
+Michael Sikorski, Andrew Honig. 
+Practical Malware Analysis The Hands-On Guide to Dissecting Malicious Software. 
+No Starch Press  2012.  ISBN: 1-59327-290-1.
+
+Michael Hale Ligh, Steven Adair, Blake Hartsein, Matthew Richard. 
+Malware Amalyst’s Cookbook and DVD Tools and Techniques for Fighting Malicious Code. 
+Wiley Publishing, Inc.2011.  ISBN: 978-0-470-61303-0.
+
+Charles Petzold. 
+Programming Windows, 5th Edition. 
+Microsoft Press 1998. ISBN: 157231995X.
+
+Johnson M. Hart. 
+Windows System Programming 4 edition. 
+Addison-Wesley Professional. ISBN:  0321657748.
+
+Pavel Yosifovich, Alex Ionescu, Mark E.Russinovich, David A. Solomon. 
+Windows od środka. Architektura systemu, procesy, wątki, zarządzanie pamięcią i dużo więcej. Wydanie VII. 
+Helion SA 2018. ISBN:978-83-283-3901-9.
+
+Rajeev Nagar. 
+Windows NT file System Internals A Developer’s Guide 1 edition. 
+O'Reilly Media 1997. ISBN: 1565922492.
+
+William Stallings. 
+Systemy operacyjne. Architektura, funkcjonowanie i projektowanie. Wydanie IX. 
+Helion 2018. ISBN:978-83-283-3760-2.
+
+Patrick Engebretson. 
+Hacking i testy penetracyjne. Podstawy. 
+Helion 2013. ISBN:978-83-246-6653-9.
+
+Thomas Wilhelm. 
+Profesjonalne testy penetracyjne. Zbuduj własne środowisko do testów. 
+Helion 2014. ISBN:978-83-246-9036-7.
+
+Wil Allsopp. 
+Testy Penetracyjne Dla Zaawansowanych. 
+Helion SA 2018. ISBN:978-83-283-3895-1.
+
+Vijay Kumar Velu. 
+Kali Linux Testy penetracyjne i bezpieczeństwo sieci dla zaawansowanych. 
+Helion SA 2018. ISBN:978-83-283-4037-4.
+
+Grillenmeier Guido, Clercq Jan. 
+Bezpieczeństwo Microsoft Windows. Podstawy praktyczne. 
+Wydawnictwo Naukowe PWN 2008. ISBN: 978-8-3011-5307-6.
+
+William Stallings, Lawrie Brown. 
+Bezpieczeństwo Systemów Informatycznych Zasady i praktyka Tom 1 Wydanie IV. 
+Helion SA 2019. ISBN: 978-83-283-4299-6.
+
+William Stallings, Lawrie Brown. 
+Bezpieczeństwo Systemów Informatycznych Zasady i praktyka Tom 2 Wydanie IV. 
+Helion SA 2019. ISBN: 978-83-283-4300-9.
+
+Lee Brotherston, Amanda Berlin. 
+Bezpieczeństwo defensywne. 
+Helion SA 2019. ISBN:978-83-283-4722-9.
+
+Georgia Weidman. 
+Bezpieczny system w praktyce Wyższa szkoła hackingu i testy penetracyjne. 
+Helion SA 2015. ISBN:978-83-283-0352-2.
+
+Gene Kim, Jez Humble, Patrick Debois, John Willis.
+DevOps Światowej klasy zwinność, Niezawodność i Bezpieczeństwo w twojej organizacji. 
+Helion SA 2017. ISBN:978-83-283-3453-3.
+
+Brian W. Kernighan, Dennis M. Ritchie.
+Język ANSI C. 
+Helion 2010. ISBN:978-83-246-2578-9.
+
+Richard Reese.
+Wskaźniki w języku C. 
+Helion 2014. ISBN:978-83-246-8289-8.
+
+Jacek Galowicz.
+C++ 17 STL Receptury. 
+Helion 2018. ISBN: 978-83-283-4501-0.
+
+Jerzy Grębosz.
+Opus magnum C++ 11. Programowanie w języku C++. 
+Helion SA 2017. ISBN: 978-83-283-4214-9.
+
+Bruce Eckel.
+Thinking in C++. Edycja polska. 
+Helion SA 2002. ISBN: 83-7197-709-3.
+
+David Abrahams, Aleksey Gurtovoy.
+Język C++. Metaprogramowanie za pomocą szablonów. 
+Helion SA 2005. ISBN: 83-7361-935-6.
+
+Bjarne Stroustrup.
+Programowanie. Teoria i praktyka z wykorzystaniem C++. Wydanie II poprawione. 
+Helion SA 2013. ISBN: 978-83-246-7720-7.
+
+Stephan Roth.
+Czysty kod w C++ 17 Oprogramowanie Łatwe w Utrzymaniu. 
+Helion 2018. ISBN: 978-83-283-4340-55.
+
+Kip R. Irvine.
+Asembler dla procesorów Intel. Vademecum profesjonalisty. 
+Helion SA 2003. ISBN: 83-7197-910-X.
+
+Alexey Lyashko.
+Mastering Assembly Programming. 
+Pack Publishing 2017. ISBN: 9781787120075.
+
+Karol Celebi, Zbigniew Suski.
+Rootkit dla dydaktycznego systemu Linux. 
+Przegląd Teleinformatyczny NR 1-2, 2016.
+
+Reiner Creutzburg, Simon Heglang.
+https://www.researchgate.net/profile/Reiner\_Creutzburg/publication/305469492\_Handbook\_of\_Malware\_2016\_-\_A\_Wikipedia\_Book/links/578fe89e08ae64311c0c79b8/Handbook-of-Malware-2016-A-Wikipedia-Book.pdf
+
+mikeblome, olprod. Przewodnik: Tworzenie tradycyjnych aplikacji Windows Desktop (C++)
+https://docs.microsoft.com/pl-pl/cpp/windows/walkthrough-creating-windows-desktop-applications-cpp?view=vs-2019
+
+linczelion.Win32 Assembly Tutorials.
+http://win32assembly.programminghorizon.com/tutorials.html
+
+Chris Lomont. Introduction to x64 Assembly
+https://software.intel.com/en-us/articles/introduction-to-x64-assembly
+
+Beth Levin, Andres Mariano Gorzelany,Justin Hall, Nick Schonning, Duncan Mackenzie. Understanding malware & other threats
+https://docs.microsoft.com/pl-pl/windows/security/threat-protection/intelligence/understanding-malware\#shellcode
+
+Adrian “Vizzdoom” Michalczyk. Jak w prosty sposób oszukać ochronę antywirusową
+https://sekurak.pl/jak-w-prosty-sposob-oszukac-ochrone-antywirusowa-av-bypassing/
+
+afreak. BIOS Based Rootkits
+http://www.exfiltrated.com/research-BIOS\_Based\_Rootkits.php
+
+Kod źródłowy rootkita PSF
+https://repo.palkeo.com/repositories/mirror7.meh.../Rootkit/psf.c
